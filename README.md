@@ -75,3 +75,5 @@ MIT
 <!-- [2024-07-02] feat: initialize markdown editor interface with split-pane view -->
 
 <!-- [2024-07-02] feat: implement live markdown parser and HTML preview rendering -->
+
+<!-- [2024-07-14] feat: add syntax highlighting for code blocks and table support -->
