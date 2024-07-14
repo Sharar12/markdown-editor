@@ -77,3 +77,5 @@ MIT
 <!-- [2024-07-02] feat: implement live markdown parser and HTML preview rendering -->
 
 <!-- [2024-07-14] feat: add syntax highlighting for code blocks and table support -->
+
+<!-- [2024-07-14] feat: support markdown file download and word/character count stats -->
